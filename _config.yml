@@ -21,9 +21,9 @@ title      : Farry Zhang
 email      : 1436035656@qq.com #this is also the email contact forms will go to
 description: "learn more about me!"
 author     : Farry
-logo:     
-  path: assets\img\logo.png
-  height: 60 #height in px, defaults to 52px
+#logo:     
+  #path: assets\img\logo.png
+  #height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
