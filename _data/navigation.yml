@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Programs"
-      section: Program
+    - title: "Skill"
+      section: Skill
     - title: "Portfolio"
       section: portfolio
     - title: "About"
