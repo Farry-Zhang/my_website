@@ -160,11 +160,6 @@ es: &DEFAULT_ES
         align: right
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
-  about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: nosotros
 
   clients:
     section: clientes
