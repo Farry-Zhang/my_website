@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     section: Skill
     list:
       - title: "Electrical Engineering"
-        desc: "Verilog、stm32、microcontroller"
+        desc: "Verilog、stm32、microcontroller、FPGA、Simulation"
         icon: fa-solid fa-microchip #find more at https://fontawesome.com/icons
       - title: "Physics"
         desc: "MATLAB、Data Analysis、mathematical modeling、Literature Retrieval、Particle Physics"
@@ -59,7 +59,7 @@ en: &DEFAULT_EN
         desc: "Using python to assist in building machine learning models, familiar with basic neural network like CNN、RNN. <br> Task1: build the RKNN model with RNN and Kalman filter, used for radar target tracking algorithm
 <br> Task2: build the CKNN model with CNN and Kriging model, used for model optimization"
         image: assets/img/timeline/3.jpg
-        align: right
+        align: left
     end: "Be Part <br> of My <br> Story!"
 
   contact:
