@@ -43,8 +43,11 @@ en: &DEFAULT_EN
     events:
       - title: "Chongqing University"
         year: "2023-2027"
-        desc: "Physics and Electrical Engineering"
-        image: assets/img/timeline/1.jpg
+        desc: "Physics and Electrical Engineering <br> First-class Scholarship of Chongqing University 
+        <br> The Second Prize in Mathematical Contest In Modeling (Team leader) 
+        <br> The Second Prize in Mathematics competition of Chinese College Students 
+        <br> The Third Prize in College Students' Electronic Design Contest(Team leader)" 
+        image: assets/img/timeline/CQU.png
         alt:
       - title: "Cambridge University"
         year: "August 2024"
