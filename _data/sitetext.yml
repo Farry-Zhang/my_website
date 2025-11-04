@@ -24,10 +24,10 @@ en: &DEFAULT_EN
         desc: "Verilog、stm32、microcontroller"
         icon: fa-solid fa-microchip #find more at https://fontawesome.com/icons
       - title: "Physics"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "MATLAB、"
         icon: fa-solid fa-book-open
-      - title: "AI and ML"
-        desc: "Your description here, full **Markdown** support"
+      - title: "AI"
+        desc: "  Machine Learning、Deep Learning、Python、Pytorch、CNN、RNN、Neural Network"
         icon: fa-solid fa-robot
 
   portfolio:
