@@ -20,15 +20,15 @@ en: &DEFAULT_EN
     title: "Skill"
     section: Skill
     list:
-      - title: "Electric Engineering"
-        desc: "Verilog "
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Electrical Engineering"
+        desc: "Verilog、stm32、microcontroller"
+        icon: fa-solid fa-microchip #find more at https://fontawesome.com/icons
       - title: "Physics"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fa-solid fa-book-open
       - title: "AI and ML"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fa-solid fa-robot
 
   portfolio:
     title: "Portfolio"
