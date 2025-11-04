@@ -55,9 +55,10 @@ en: &DEFAULT_EN
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Institute of Software Chinese Academy of Sciences"
-        year: "June-September 2024"
-        desc: "Using python to assist in building machine learning models, familiar with basic neural network like CNN、RNN. <br> Task1: build the RKNN model with RNN and Kalman filter, used for radar target tracking algorithm
-<br> Task2: build the CKNN model with CNN and Kriging model, used for model optimization"
+        year: "June-September 2025"
+        desc: "Using python to assist in building machine learning models, familiar with basic neural network like CNN、RNN. 
+        <br> Task1: build the RKNN model with RNN and Kalman filter, used for radar target tracking algorithm
+        <br> Task2: build the CKNN model with CNN and Kriging model, used for model optimization"
         image: assets/img/timeline/3.jpg
         align: left
     end: "Be Part <br> of My <br> Story!"
