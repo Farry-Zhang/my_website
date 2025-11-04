@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://farryzhang.github.io"
-baseurl: "/magic_world"
+baseurl: "/my_website"
 
 title      : Farry Zhang
 email      : 1436035656@qq.com #this is also the email contact forms will go to
