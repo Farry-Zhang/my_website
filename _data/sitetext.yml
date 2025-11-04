@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     list:
       - title: "Electrical Engineering"
         desc: "Verilog、stm32、microcontroller、FPGA、Simulation"
-        icon: fa-solid fa-microchip #find more at https://fontawesome.com/icons
+        icon: fas fa-microchip #find more at https://fontawesome.com/icons
       - title: "Physics"
         desc: "MATLAB、Data Analysis、mathematical modeling、Literature Retrieval、Particle Physics"
-        icon: fa-solid fa-book-open
+        icon: fas fa-book-open
       - title: "Artificial Intelligence"
         desc: "Machine Learning、Deep Learning、Python、Pytorch、CNN、RNN、Neural Network"
-        icon: fa-solid fa-robot
+        icon: fas fa-robot
 
   portfolio:
     title: "Portfolio"
