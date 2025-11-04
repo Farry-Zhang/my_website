@@ -24,10 +24,10 @@ en: &DEFAULT_EN
         desc: "Verilog、stm32、microcontroller"
         icon: fa-solid fa-microchip #find more at https://fontawesome.com/icons
       - title: "Physics"
-        desc: "MATLAB、"
+        desc: "MATLAB、Data Analysis、mathematical modeling、Literature Retrieval、Particle Physics"
         icon: fa-solid fa-book-open
-      - title: "AI"
-        desc: "  Machine Learning、Deep Learning、Python、Pytorch、CNN、RNN、Neural Network"
+      - title: "Artificial Intelligence"
+        desc: "Machine Learning、Deep Learning、Python、Pytorch、CNN、RNN、Neural Network"
         icon: fa-solid fa-robot
 
   portfolio:
@@ -56,8 +56,6 @@ en: &DEFAULT_EN
         desc: "Using python to assist in building machine learning models, familiar with basic neural network like CNN、RNN. <br> Task1: build the RKNN model with RNN and Kalman filter, used for radar target tracking algorithm
 <br> Task2: build the CKNN model with CNN and Kriging model, used for model optimization"
         image: assets/img/timeline/3.jpg
-        alt:
-        # you can enforce the alignment
         align: right
     end: "Be Part <br> of My <br> Story!"
 
