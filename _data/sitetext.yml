@@ -52,7 +52,7 @@ en: &DEFAULT_EN
       - title: "Cambridge University"
         year: "August 2024"
         desc: "Research Program about AI and ML"
-        image: assets/img/timeline/major.jpg
+        image: assets/img/major.jpg
         alt:
       - title: "Institute of Software Chinese Academy of Sciences"
         year: "June-September 2025"
