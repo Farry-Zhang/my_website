@@ -51,8 +51,8 @@ en: &DEFAULT_EN
         alt:
       - title: "Cambridge University"
         year: "August 2024"
-        desc: "Research Program about AI and ML"
-        image: assets/img/timeline/cam logo.jpg
+        desc: "Research Program about AI and ML <br> grade: A"
+        image: assets/img/timeline/cam logo.png
         alt:
       - title: "Institute of Software Chinese Academy of Sciences"
         year: "June-September 2025"
