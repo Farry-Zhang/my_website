@@ -13,14 +13,16 @@ en: &DEFAULT_EN
   nav:
     - title: "Skill"
       section: Skill
-    - title: "Portfolio"
-      section: portfolio
+    - title: "Project"
+      section: project
+    - title: "Hobby"
+      section: hobby
     - title: "Timeline"
       section: timeline
     - title: "Contact"
       section: contact
     - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://github.com/Farry-Zhang/my_website/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
