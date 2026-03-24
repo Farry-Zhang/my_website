@@ -30,9 +30,9 @@ en: &DEFAULT_EN
         desc: "Machine Learning、Deep Learning、Python、Pytorch、CNN、RNN、Neural Network"
         icon: fas fa-robot
 
-  portfolio:
-    title: "Portfolio"
-    section: portfolio
+  project:
+    title: "Project"
+    section: project
     closebutton: "Close Project"
 
   timeline:
