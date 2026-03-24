@@ -14,11 +14,11 @@ en: &DEFAULT_EN
     title: Welcome to my world!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#skill"
 
   services:
     title: "Skill"
-    section: Skill
+    section: skill
     list:
       - title: "Electrical Engineering"
         desc: "Verilog、stm32、microcontroller、FPGA、Simulation"
