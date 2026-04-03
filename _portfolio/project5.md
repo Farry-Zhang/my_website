@@ -5,8 +5,8 @@ image: assets/img/portfolio/chip.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
+  title: Electrical Engineer
+  subtitle: embedded development
   thumbnail: assets/img/portfolio/chip.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
