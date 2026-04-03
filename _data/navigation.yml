@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Skill"
       section: skill
-    - title: "Hobby"
-      section: hobby
+    - title: "Project"
+      section: project
     - title: "Timeline"
       section: timeline
     - title: "Contact"
