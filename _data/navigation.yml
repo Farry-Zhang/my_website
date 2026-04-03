@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "Skill"
-      section: Skill
+      section: skill
     - title: "Project"
       section: project
     - title: "Hobby"
