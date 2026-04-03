@@ -16,9 +16,6 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#skill"
 
-  services:
-    section: ""
-
   skill:
     title: "Skill"
     section: skill
