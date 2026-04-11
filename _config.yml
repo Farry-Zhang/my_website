@@ -11,8 +11,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+# Local theme: edit _layouts, _includes, _sass, and assets in this repo (no remote theme).
 
 url    : "https://farryzhang.github.io"
 baseurl: "/my_website"
@@ -39,5 +38,4 @@ markdown: kramdown
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
 
-plugins:
-  - jekyll-remote-theme
+plugins: []

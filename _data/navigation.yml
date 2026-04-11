@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
+    - title: "GitHub"
       url: https://github.com/Farry-Zhang/my_website/
 en-US:
   <<: *DEFAULT_EN

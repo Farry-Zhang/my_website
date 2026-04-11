@@ -1,0 +1,32 @@
+<!-- Skills (uses sitetext.skill; same structure as the former services block) -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+  {% assign skill = site.data.sitetext[site.locale].skill %}
+{% else %}
+  {% assign skill = site.data.sitetext.skill %}
+{% endif %}
+{% if skill %}
+<section class="page-section" id="{{ skill.section | default: "skill" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ skill.title | default: "Skills" }}</h2>
+        {% if skill.text %}
+          <h3 class="section-subheading text-muted">{{ skill.text }}</h3>
+        {% endif %}
+      </div>
+    </div>
+    <div class="row text-center">
+      {% for item in skill.list %}
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="{{ item.icon | default: "fas fa-microchip" }} fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading">{{ item.title | markdownify }}</h4>
+          {% if item.desc %}<div class="text-muted">{{ item.desc | markdownify }}</div>{% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

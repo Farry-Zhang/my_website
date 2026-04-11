@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% comment %}
+  首页板块顺序（与 _data/navigation.yml 的锚点一致）：
+  - Skill      → 文案 _data/sitetext.yml → skill；结构 _includes/skill.html
+  - Project    → 列表 _portfolio/*.md；标题等 _data/sitetext.yml → project；结构 _includes/portfolio_grid.html、modals.html
+  - Timeline   → 文案 _data/sitetext.yml → timeline；结构 _includes/timeline.html
+  - Contact    → 文案 _data/sitetext.yml → contact；结构 _includes/contact.html
+  顶栏与页脚：_includes/navheader.html、footer.html；全站样式：_sass/、assets/css/agency.scss
+{% endcomment %}
+{% include navheader.html %}
+
+{% include skill.html %}
+{% include portfolio_grid.html %}
+{% include timeline.html %}
+{% include contact.html %}
