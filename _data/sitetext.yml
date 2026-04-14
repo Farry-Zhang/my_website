@@ -59,7 +59,7 @@ en: &DEFAULT_EN
         desc: "Using python to assist in building machine learning models, familiar with basic neural network like CNN、RNN. 
         <br> Task1: build the RKNN model with RNN and Kalman filter, used for radar target tracking algorithm
         <br> Task2: build the CKNN model with CNN and Kriging model, used for model optimization"
-        image: assets/img/timeline/ISCAS.png
+        image: assets/img/timeline/ISCAS.jpg
         align: left
     end: "Be Part <br> of My <br> Story!"
 
