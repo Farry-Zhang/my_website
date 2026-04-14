@@ -1,6 +1,6 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Competition
+subtitle: mathematical modelling competition
 image: assets/img/portfolio/model.jpg
 alt: 
 
@@ -9,7 +9,7 @@ caption:
   subtitle: mathematical modelling competition
   thumbnail: assets/img/portfolio/model.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Druing this competition, we solve a problem about ecosystem and write an essay to show our results.
 
 {:.list-inline}
 - Date: October 2019
