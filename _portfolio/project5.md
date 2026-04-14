@@ -1,18 +1,14 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Practice
+subtitle: Electrical Engineering
 image: assets/img/portfolio/chip.jpg
 alt: 
 
 caption:
-  title: Electrical Engineer
+  title: Practice
   subtitle: embedded development
   thumbnail: assets/img/portfolio/chip.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+making some interesting things
+<br>Second Prize in the national college student Electronic Design Contest
 
