@@ -43,7 +43,8 @@ en: &DEFAULT_EN
     events:
       - title: "Chongqing University"
         year: "2023-2027"
-        desc: "Physics and Electrical Engineering <br> First-class Scholarship of Chongqing University 
+        desc: "Major: Physics & Minor: Electrical Engineering 
+        <br> First-class Scholarship of Chongqing University 
         <br> The Second Prize in Mathematical Contest In Modeling (Team leader) 
         <br> The Second Prize in Mathematics competition of Chinese College Students 
         <br> The Third Prize in College Students' Electronic Design Contest(Team leader)" 
