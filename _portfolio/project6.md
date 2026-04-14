@@ -11,8 +11,4 @@ caption:
 ---
 Druing this competition, we solve a problem about ecosystem and write an essay to show our results.
 
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
 
