@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Language
+subtitle: making friends around the world!
 image: assets/img/portfolio/communication2.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
+  title: Language
   subtitle: making friends
   thumbnail: assets/img/portfolio/communication2.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+**Chinese**: Mother tongue
+**English**: CET-6: 617(top 5% in China)、IELTS：6.5、Second Prize in National College Student English Competition
