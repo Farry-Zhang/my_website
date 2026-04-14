@@ -1,18 +1,14 @@
 ---
-title: Hiking
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Hobby
+subtitle: sports、reading、outdoor activities
 image: assets/img/portfolio/hiking.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Hiking
-  subtitle: love sports
+  title: Hobby
+  subtitle: sports、reading、outdoor activities
   thumbnail: assets/img/portfolio/hiking.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+**Hiking:** My favorite sports! usually twice or third times per month:)
 
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
 
