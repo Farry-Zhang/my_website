@@ -1,11 +1,11 @@
 ---
-title: Practice
+title: Hands-on Practice
 subtitle: Electrical Engineering
 image: assets/img/portfolio/chip.jpg
 alt: 
 
 caption:
-  title: Practice
+  title: Hands-on Practice
   subtitle: embedded development
   thumbnail: assets/img/portfolio/chip.jpg
 ---
